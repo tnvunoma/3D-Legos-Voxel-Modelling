@@ -1,0 +1,11 @@
+numpy
+opencv-python==4.7.0.72
+torch>=2.0
+torchvision
+
+Pillow
+matplotlib
+
+open3d==0.17.0  # version works well with Python <= 3.10
+
+tqdm
